@@ -16,6 +16,7 @@ skills: 1
 This is the assignment text. It should help provide students with the background information needed.
 The instructions that follow should be in bullet point form with clear guidance for what is expected.
 Testing - Make change to file in DataCamp online editing tool.
+Testing - Make change to file on Github.
 
 `@instructions`
 - Instruction 1
