@@ -37,11 +37,13 @@ By the end of this module you should be able to:
 
 - Locate important information on the course syllabus
 
+- Another objective
 
+- A final objective
 
-`pre_exercise_code`
+`exercise`
 ```{r}
-# Load datasets and packages here.
+Load datasets and packages here.
 ```
 
 `@sample_code`
