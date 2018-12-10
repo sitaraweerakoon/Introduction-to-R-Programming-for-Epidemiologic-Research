@@ -6,7 +6,7 @@ description: 'Video exercise'
 ## Introduction
 
 ```yaml
-type: VideoExercise
+type: Introduction
 key: 55f838b3cd
 lang: r
 xp: 100
@@ -17,9 +17,9 @@ Follow the instructions for this module below.
 
 
 `instructions`
-We will be using Canvas in this course. 
 
-- Watch this [video](https://www.youtube.com/watch?v=D1s_It47cBU) for a tutorial on how to use Canvas. 
+- We will be using Canvas in this course. 
+    - Watch this [video](https://www.youtube.com/watch?v=D1s_It47cBU) for a tutorial on how to use Canvas. 
 
 - Follow this [link](https://www.youtube.com/watch?v=D1s_It47cBU) to read a course overview.
 
@@ -27,7 +27,7 @@ We will be using Canvas in this course.
 
 - Set up a [LinkedIn](www.linkedin.com) account
 
-- I can’t teach you everything you will need to know about data, so one goal for the course is to teach you how to find answers for yourselves. Information on how to contact me or the TA is located in our Canvas page.
+- Information on how to contact me or the TA is located in our Canvas page
 
 `learning objectives`
 
