@@ -5,13 +5,6 @@ description: 'Introduction to Technologies'
 
 ## Introduction to Technologies
 
-```yaml
-type: Module
-key: 55f838b3cd
-lang: r
-xp: 100
-skills: 1
-```
 
 Now that students know how the course is laid out, we start introducing the various technologies/tools for managing and analyzing data that we will use in this course. In this module, the intent is not to actually teach data management or analysis techniques. It’s just about how to access the various software we will use. We will not go into the details of how to use these.
 
