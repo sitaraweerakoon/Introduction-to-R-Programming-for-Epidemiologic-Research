@@ -1,6 +1,6 @@
 ---
-title: Module X
-description: 'Video exercise'
+title: Module 1
+description: 'Introduction'
 ---
 
 ## Introduction
@@ -15,6 +15,35 @@ skills: 1
 
 Follow the instructions for this module below.
 
+`topics`
+
+- Using Canvas
+
+- Course overview
+ 
+     - Foreign language course, not a math or statistics course
+
+- Where to find and how to read the syllabus
+
+- How to use DataCamp
+
+- Student introductions
+ 
+    - LinkedIn
+
+- Preview the final project
+
+- Finding answers
+
+- How to contact me and/or the TA with questions.
+
+- Data simulation
+ 
+     - We will use it a lot in this course to understand statistical concepts and to help with debugging
+
+- Debugging
+
+- Reporting
 
 `instructions`
 
@@ -42,9 +71,18 @@ By the end of this module you should be able to:
 - A final objective
 
 `exercise`
-```{r}
-Load datasets and packages here.
-```
+
+Visit the [SPH website](https://sph.uth.edu/) for more resources.
+
+[Example final project](https://sph.uth.edu/)
+
+
+`practice`
+
+
+`assignment`
+
+- Share your LinkedIn Profile
 
 `@sample_code`
 ```{r}
