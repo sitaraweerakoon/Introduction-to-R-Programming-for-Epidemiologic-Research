@@ -1,6 +1,7 @@
 ---
 title: 'Module X'
 description: 'Video exercise'
+free_preview: true
 ---
 
 ## Introduction
