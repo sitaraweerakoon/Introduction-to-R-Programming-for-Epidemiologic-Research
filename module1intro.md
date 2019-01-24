@@ -1,12 +1,12 @@
 ---
-title: Module X
-description: 'Video exercise'
+title: Module 1
+description: 'Introduction'
 ---
 
 ## Introduction
 
 ```yaml
-type: VideoExercise
+type: Introduction
 key: 55f838b3cd
 lang: r
 xp: 100
@@ -15,11 +15,40 @@ skills: 1
 
 Follow the instructions for this module below.
 
+`topics`
+
+- Using Canvas
+
+- Course overview
+ 
+     - Foreign language course, not a math or statistics course
+
+- Where to find and how to read the syllabus
+
+- How to use DataCamp
+
+- Student introductions
+ 
+    - LinkedIn
+
+- Preview the final project
+
+- Finding answers
+
+- How to contact me and/or the TA with questions.
+
+- Data simulation
+ 
+     - We will use it a lot in this course to understand statistical concepts and to help with debugging
+
+- Debugging
+
+- Reporting
 
 `instructions`
-We will be using Canvas in this course. 
 
-- Watch this [video](https://www.youtube.com/watch?v=D1s_It47cBU) for a tutorial on how to use Canvas. 
+- We will be using Canvas in this course. 
+    - Watch this [video](https://www.youtube.com/watch?v=D1s_It47cBU) for a tutorial on how to use Canvas. 
 
 - Follow this [link](https://www.youtube.com/watch?v=D1s_It47cBU) to read a course overview.
 
@@ -27,7 +56,7 @@ We will be using Canvas in this course.
 
 - Set up a [LinkedIn](www.linkedin.com) account
 
-- I can’t teach you everything you will need to know about data, so one goal for the course is to teach you how to find answers for yourselves. Information on how to contact me or the TA is located in our Canvas page.
+- Information on how to contact me or the TA is located in our Canvas page
 
 `learning objectives`
 
@@ -37,12 +66,23 @@ By the end of this module you should be able to:
 
 - Locate important information on the course syllabus
 
+- Another objective
+
+- A final objective
+
+`exercise`
+
+Visit the [SPH website](https://sph.uth.edu/) for more resources.
+
+[Example final project](https://sph.uth.edu/)
 
 
-`pre_exercise_code`
-```{r}
-# Load datasets and packages here.
-```
+`practice`
+
+
+`assignment`
+
+- Share your LinkedIn Profile
 
 `@sample_code`
 ```{r}
