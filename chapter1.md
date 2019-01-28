@@ -47,3 +47,16 @@ msg2 <- "Nice one!"
 msg3 <- "Not quite, give it another shot."
 ex() %>% check_mc(2, feedback_msgs = c(msg1, msg2, msg3))
 ```
+
+---
+
+## Sitara test
+
+```yaml
+type: VideoExercise
+key: 806dc06927
+xp: 50
+```
+
+`@projector_key`
+fb76fe11a47e52a92601175cbbcd7ee5
