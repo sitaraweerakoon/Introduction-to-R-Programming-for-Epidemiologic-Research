@@ -12,5 +12,4 @@ key: 34243422ef
 xp: 50
 ```
 
-`@projector_key`
-b9b76fb6a28633f003f2f472d6fb7c12
+Watch this [video](https://www.youtube.com/watch?v=KH8-SLxcFic) for an introduction. 
