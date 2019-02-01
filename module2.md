@@ -5,9 +5,7 @@ description: 'Introduction to Technologies'
 
 ## Introduction to Technologies
 
-
-Now that students know how the course is laid out, we start introducing the various technologies/tools for managing and analyzing data that we will use in this course. In this module, the intent is not to actually teach data management or analysis techniques. It’s just about how to access the various software we will use. We will not go into the details of how to use these.
-
+This module will serve as an introduction to R. 
 
 `topics`
 
@@ -20,8 +18,6 @@ Now that students know how the course is laid out, we start introducing the vari
 - GitHub
 
 - Why R?
- 
-    - Students often ask me about the difference between R and other software commonly used for data analysis (e.g. SPSS, Stata, SAS, Python). Additionally, many students often wonder why we chose to teach this course using R, as opposed to some other program. I think that the web article, The popularity of data analysis software gives some information that is really useful for addressing both of these questions. So your first, and frankly one of the only, reading assignments in this course is this article. Please click the [button](www.google.com) below to be ready to discuss in our first lab session.
 
 - S
 
@@ -63,9 +59,6 @@ What is Git resource
 
 What is GitHub resource
 
-`practice`
-
-
 `assignment`
 
 - Create a Google account
@@ -78,30 +71,3 @@ What is GitHub resource
 
 - Points for signing up for GitHub, SO, and RStudio Community
 
-
-`@sample_code`
-```{r}
-# Your
-# sample
-# code
-# should
-# be
-# ideally
-# 10 lines or less,
-# with a max
-# of 16 lines.
-```
-
-`@solution`
-```{r}
-# Answer goes here
-# Make sure to match the comments with your sample code
-# to help students see the differences from solution
-# to given.
-```
-
-`@sct`
-```{r}
-# Update this to something more informative.
-success_msg("Some praise! Then reinforce a learning objective from the exercise.")
-```
