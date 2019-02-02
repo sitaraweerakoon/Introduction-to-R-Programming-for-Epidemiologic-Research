@@ -60,9 +60,6 @@ What is Git resource
 
 What is GitHub resource
 
-`practice`
-
-
 `assignment`
 
 - Create a Google account
